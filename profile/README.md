@@ -6,8 +6,8 @@
 </picture>
 
 # AIOR Teknoloji Limited Şirketi
-### Engineering · Software · Design · Artificial Intelligence
-#### Mühendislik · Yazılım · Tasarım · Yapay Zeka
+### Engineering · Software · Design · Manufacturing · AI
+<sub>Mühendislik · Yazılım · Tasarım · Üretim · Yapay Zeka</sub>
 
 [![Website](https://img.shields.io/badge/Web-aior.com-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aior.com)
 [![Email](https://img.shields.io/badge/E--mail-hi@aior.com-38bdf8?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:hi@aior.com)
