@@ -76,6 +76,20 @@ EN → [aior.com/services](https://aior.com/services) · TR → [aior.com/hizmet
 
 ---
 
+## 🛠️ Tech stack & capabilities
+
+```text
+Frontend     Astro · TypeScript · TailwindCSS · React · PWA
+Backend      PHP · Laravel · Node.js · Python · REST/GraphQL APIs
+AI / Data    LLM integration · Computer Vision · ML pipelines · analytics
+Hosting      cPanel · WHMCS · LiteSpeed · CloudLinux · Imunify360 · Cloudflare
+DevOps       GitHub Actions CI · SSO (SAML) · Dependabot · IaC · automated deploy
+Industry     PLC/SCADA · IoT · 3D · robotics · traceability & quality systems
+```
+
+Engineering governance: PR + review + required CI on `main`, SAML SSO, enforced 2FA,
+risk-tiered production releases, audit trail.
+
 ## 🏗️ Infrastructure · Altyapı
 
 **3 Gbps** dedicated port · Germany & France (Frankfurt · Paris) ·
