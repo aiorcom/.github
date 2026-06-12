@@ -117,7 +117,7 @@ risk-tiered production releases, audit trail.
 ## 📞 Contact · İletişim
 
 🌐 [aior.com](https://aior.com) · ✉️ [hi@aior.com](mailto:hi@aior.com) · 📨 KEP: aior@hs01.kep.tr
-☎️ [+90 850 309 80 80](tel:+908503098080) · 💬 [WhatsApp](https://wa.me/905323490020)
+☎️ [+90 850 309 80 80](tel:+908503098080) · 💬 [WhatsApp](https://wa.me/908503098080)
 📍 Geçit Mah. 6. Gümüş Sk. No: 6, Balkar Plaza A Blok K:1 D:2, Osmangazi / Bursa / Türkiye
 
 <div align="center">
