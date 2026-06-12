@@ -83,11 +83,11 @@ Frontend     Astro · TypeScript · TailwindCSS · React · PWA
 Backend      PHP · Laravel · Node.js · Python · REST/GraphQL APIs
 AI / Data    LLM integration · Computer Vision · ML pipelines · analytics
 Hosting      cPanel · WHMCS · LiteSpeed · CloudLinux · Imunify360 · Cloudflare
-DevOps       GitHub Actions CI · SSO (SAML) · Dependabot · IaC · automated deploy
+DevOps       GitHub Actions CI · Enterprise SSO (SAML) · Dependabot · IaC · Pilot deploy
 Industry     PLC/SCADA · IoT · 3D · robotics · traceability & quality systems
 ```
 
-Engineering governance: PR + review + required CI on `main`, SAML SSO, enforced 2FA,
+Engineering governance: PR + review + required CI on `main`, **GitHub Enterprise `aior` SAML SSO** (frozen — Entra Enterprise Account), enforced 2FA,
 risk-tiered production releases, audit trail.
 
 **Public trust detail:** [TRUST.md](./TRUST.md) — security disclosure, how we build, what stays private.

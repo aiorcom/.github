@@ -16,7 +16,7 @@ Website: [aior.com](https://aior.com) · Contact: [hi@aior.com](mailto:hi@aior.c
 | **Automated checks** | CI validates builds; dependency and secret scanning on our toolchain. |
 | **Single deploy authority** | Production releases come from a controlled Pilot environment — not from intern laptops. |
 | **Risk-tiered releases** | Low-risk static updates vs payment/domain changes follow stricter gates. |
-| **2FA** | Organization-wide two-factor authentication for GitHub access. |
+| **2FA + SSO** | Organization-wide 2FA; **GitHub Enterprise `aior` SAML** via Microsoft Entra (Enterprise Account app — already configured). |
 
 ## Security disclosure
 
