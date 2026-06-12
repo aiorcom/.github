@@ -90,6 +90,8 @@ Industry     PLC/SCADA · IoT · 3D · robotics · traceability & quality system
 Engineering governance: PR + review + required CI on `main`, SAML SSO, enforced 2FA,
 risk-tiered production releases, audit trail.
 
+**Public trust detail:** [TRUST.md](./TRUST.md) — security disclosure, how we build, what stays private.
+
 ## 🏗️ Infrastructure · Altyapı
 
 **3 Gbps** dedicated port · Germany & France (Frankfurt · Paris) ·
@@ -109,7 +111,8 @@ risk-tiered production releases, audit trail.
 [Projects](https://aior.com/projects) · [References](https://aior.com/references) ·
 [Market](https://aior.com/market) · [Blog](https://aior.com/blog) · [Community](https://aior.com/community)
 
-> 🔒 Production source code is kept in **private** repositories.
+> 🔒 Production source code is kept in **private** repositories.  
+> 📋 Engineering & security summary: [TRUST.md](https://github.com/aiorcom/.github/blob/main/profile/TRUST.md)  
 > Üretim kaynak kodumuz **private** depolarda tutulur.
 
 ---
