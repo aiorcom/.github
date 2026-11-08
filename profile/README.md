@@ -1,139 +1,48 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://aior.com/aior-theme/icons/aior-logo-dark.png">
-  <img alt="AIOR Teknoloji Limited Şirketi" src="https://aior.com/aior-theme/icons/aior-logo.png" width="240">
-</picture>
+<img src="assets/aior-profile-light.png" alt="AIOR — aior.com" width="280">
 
-# AIOR Teknoloji Limited Şirketi
-### Engineering · Software · Design · Manufacturing · AI
-<sub>Mühendislik · Yazılım · Tasarım · Üretim · Yapay Zeka</sub>
+# AIOR
 
-[![Website](https://img.shields.io/badge/Web-aior.com-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aior.com)
-[![Email](https://img.shields.io/badge/E--mail-hi@aior.com-38bdf8?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:hi@aior.com)
-[![Location](https://img.shields.io/badge/Bursa-Türkiye-0f766e?style=for-the-badge&logo=googlemaps&logoColor=white)](https://aior.com/contact)
-[![BTK](https://img.shields.io/badge/BTK-Onaylı%20Yer%20Sağlayıcı-15803d?style=for-the-badge)](https://internet.btk.gov.tr/yer-saglayici-listesi?page=1&q=AIOR)
+**Software · Design · Automation · Engineering · Hosting**  
+**Machine Vision · Quality Control · Traceability**
+
+[Website](https://aior.com/) · [Discuss your project](https://aior.com/contact) · [WhatsApp](https://wa.me/908503098080) · [Email](mailto:hi@aior.com)
 
 </div>
 
----
+## Engineering solutions for real business needs
 
-## 🇬🇧 About
+AIOR develops software and engineering solutions for customers in Türkiye and internationally. We connect business applications, industrial automation, camera inspection and infrastructure to help teams monitor operations, improve quality and trace their processes.
 
-**AIOR Teknoloji Limited Şirketi** (aior.com) is an end-to-end technology partner
-delivering **software engineering, artificial intelligence, web hosting, domains,
-cybersecurity and digital transformation** across 20 service categories. Field-tested
-engineering since 2009, first web project in 2001, incorporated in 2025 — serving
-clients in Türkiye and worldwide.
+We work in **English and Turkish**. Contact our company by phone or WhatsApp **24/7** to discuss your requirements.
 
-## 🇹🇷 Hakkımızda
+| Solutions | What we help with |
+| --- | --- |
+| Software | Custom applications, integrations, dashboards and operational tools |
+| Design & engineering | System design, technical development and project engineering |
+| Industrial automation | PLC integration, process monitoring and control systems |
+| Machine vision & camera control | Camera integration, visual inspection and inspection workflows |
+| Quality control & traceability | Production records, inspection results and process traceability |
+| Hosting & infrastructure | Hosting, cloud, servers, domains and technical troubleshooting |
 
-**AIOR Teknoloji Limited Şirketi** (aior.com); **yazılım mühendisliği, yapay zeka,
-web hosting, alan adı, siber güvenlik ve dijital dönüşüm** alanlarında 20 kategoride
-uçtan uca çözüm sunan bir teknoloji ortağıdır. 2009'dan bu yana saha tecrübesi,
-2001'de ilk web projesi, 2025'te resmi tüzel kişilik.
+[Explore our services](https://aior.com/services) · [Projects](https://aior.com/projects) · [Technology ecosystem](https://aior.com/partners) · [AIOR Forum](https://aiorforum.com/)
 
----
+## Türkçe
 
-## 🚀 Services · Hizmetler
+**AIOR**, Türkiye'deki ve uluslararası müşterileri için **yazılım, tasarım, otomasyon, kamera kontrolü, mühendislik ve hosting çözümleri** geliştirir. Kalite kontrolü ve izlenebilirlik uygulamalarını iş süreçleri, üretim sistemleri ve altyapıyla birlikte ele alır.
 
-EN → [aior.com/services](https://aior.com/services) · TR → [aior.com/hizmetlerimiz](https://aior.com/hizmetlerimiz)
+Özel yazılım ve entegrasyonlar, PLC ve proses otomasyonu, görüntü işleme, kamera tabanlı kontrol, üretim takibi, sunucu ve hosting ihtiyaçlarınız için bizimle iletişime geçebilirsiniz. **Türkçe ve İngilizce iletişim; şirket telefonuna ve WhatsApp hattına 7/24 ulaşım.**
 
-<table><tr>
-<td valign="top">
+## Contact / İletişim
 
-**Software & AI**
-- [Software Engineering](https://aior.com/services#cat-software-engineering)
-- [Mobile Platforms](https://aior.com/services#cat-mobile-platforms)
-- [AI & Data](https://aior.com/services#cat-artificial-intelligence-and-data)
-- [Computer Vision](https://aior.com/services#cat-computer-vision)
-- [3D Engineering](https://aior.com/services#cat-3d-engineering)
-- [Robotics & Mechatronics](https://aior.com/services#cat-robotics-mechatronics)
-- [IoT & Smart Systems](https://aior.com/services#cat-iot-smart-systems)
+- **Website:** [aior.com](https://aior.com/)
+- **Email:** [hi@aior.com](mailto:hi@aior.com)
+- **Phone:** [+90 532 349 00 20](tel:+905323490020)
+- **WhatsApp:** [+90 850 309 80 80](https://wa.me/908503098080)
+- **Community:** [aiorforum.com](https://aiorforum.com/)
+- **Company:** AIOR TEKNOLOJI LIMITED SIRKETI · Türkiye
 
-</td><td valign="top">
+[LinkedIn](https://www.linkedin.com/company/aiorcom/) · [Instagram](https://www.instagram.com/aiorcom/) · [Facebook](https://www.facebook.com/aiorcom/) · [Threads](https://www.threads.com/@aiorcom) · [YouTube](https://www.youtube.com/@aiorcom) · [X](https://x.com/aiorcom)
 
-**Hosting & Infra**
-- [Hosting & Servers](https://aior.com/services#cat-hosting-servers)
-- [Domain & DNS](https://aior.com/services#cat-domain-dns)
-- [Network Infrastructure](https://aior.com/services#cat-network-infrastructure)
-- [Cyber Security](https://aior.com/services#cat-cyber-security)
-- [WHMCS Automation](https://aior.com/services#cat-whmcs-automation)
-- [Camera & Security](https://aior.com/services#cat-camera-security)
-
-</td><td valign="top">
-
-**Industry & Growth**
-- [Industrial Automation](https://aior.com/services#cat-industrial-automation)
-- [Manufacturing Quality](https://aior.com/services#cat-manufacturing-quality)
-- [E-Commerce](https://aior.com/services#cat-e-commerce)
-- [Marketing & SEO](https://aior.com/services#cat-marketing-seo)
-- [Design & Branding](https://aior.com/services#cat-design-branding)
-- [Forum & Communities](https://aior.com/services#cat-forum-communities)
-- [Digital Transformation](https://aior.com/services#cat-corporate-digital-transformation)
-
-</td></tr></table>
-
----
-
-## 🛠️ Tech stack & capabilities
-
-```text
-Frontend     Astro · TypeScript · TailwindCSS · React · PWA
-Backend      PHP · Laravel · Node.js · Python · REST/GraphQL APIs
-AI / Data    LLM integration · Computer Vision · ML pipelines · analytics
-Hosting      cPanel · WHMCS · LiteSpeed · CloudLinux · Imunify360 · Cloudflare
-DevOps       GitHub Actions CI · Enterprise SSO (SAML) · Dependabot · IaC · Pilot deploy
-Industry     PLC/SCADA · IoT · 3D · robotics · traceability & quality systems
-```
-
-Engineering governance: PR + review + required CI on `main`, **GitHub Enterprise `aior` SAML SSO** (frozen — Entra Enterprise Account), enforced 2FA,
-risk-tiered production releases, audit trail.
-
-**Public trust detail:** [TRUST.md](./TRUST.md) — security disclosure, how we build, what stays private.
-
-## 🏗️ Infrastructure · Altyapı
-
-**3 Gbps** dedicated port · Germany & France (Frankfurt · Paris) ·
-**CloudLinux + LiteSpeed Web Host Elite + Imunify360** · redundant VPS · Dedicated · DNS · Backup.
-
-## 🤝 Partners · Partnerler
-
-`WHMCS` · `cPanel` · `Plesk` · `DirectAdmin` · `LiteSpeed` · `CloudLinux` · `Imunify360` ·
-`Windows Server` · `Cloudflare` · `OVHcloud` · `Microsoft 365` · `Google Workspace` ·
-`CentralNic` · `Ticimax` · `Enom` · `METUnic` · `NetGSM` · `Mükellef.co` · `iyzico`
-→ [aior.com/partners](https://aior.com/partners)
-
----
-
-## 📂 Work · Çalışmalarımız
-
-[Projects](https://aior.com/projects) · [References](https://aior.com/references) ·
-[Market](https://aior.com/market) · [Blog](https://aior.com/blog) · [Community](https://aior.com/community)
-
-> 🔒 Production source code is kept in **private** repositories.  
-> 📋 Engineering & security summary: [TRUST.md](https://github.com/aiorcom/.github/blob/main/profile/TRUST.md)  
-> Üretim kaynak kodumuz **private** depolarda tutulur.
-
----
-
-## 📞 Contact · İletişim
-
-🌐 [aior.com](https://aior.com) · ✉️ [hi@aior.com](mailto:hi@aior.com) · 📨 KEP: aior@hs01.kep.tr
-☎️ [+90 850 309 80 80](tel:+908503098080) · 💬 [WhatsApp](https://wa.me/908503098080)
-📍 Geçit Mah. 6. Gümüş Sk. No: 6, Balkar Plaza A Blok K:1 D:2, Osmangazi / Bursa / Türkiye
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aiorcom/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/aiorcom)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/aiorcom)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/aiorcomm)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@aiorcom)
-
-<br>
-<img alt="AIOR" src="https://aior.com/og/default-en.jpg" width="620">
-
-**© AIOR Teknoloji Limited Şirketi** — Field-tested engineering · 2009 → today
-
-</div>
+<sub>Brand assets: [white background — primary](assets/aior-profile-light.png) · [dark background — alternative](assets/aior-profile-dark.png)</sub>
